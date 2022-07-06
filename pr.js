@@ -1,4 +1,4 @@
-
+// java script es6
 // 1. var: defined variable like (var name="raj"); 2. const: is used to make constant variable (const name="Raj"); 
 //3. let: is scope specific, this can not be accessed outside scope (let name="Raj";)
 

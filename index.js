@@ -36,6 +36,8 @@ st({
 let job = position => {
     // with decomposition of position object, benefits is to get only required object field  
     let {analyst,city} = position
+    // chaing the value of object field afte destructuring
+    analyst='Programmer'
     console.log(`give me ${analyst} for domain in city ${city}`);
     // till here next line is without decomposing o
     console.log(`Give me ${position.analyst} domain analyst for cities ${position.city}`)
