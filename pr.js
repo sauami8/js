@@ -93,3 +93,15 @@ check_blog("Micro Blogging", "About programming languages");
 let _hello = () => alert("Hello World! ")
 
 _hello()
+
+
+// object 
+
+let ob =
+{
+    n: [1,2,3,4,5,6],
+    c: ['a','b','c','d','e','f','g']
+
+}
+alert(`${ob.c} ${ob.n}`)
+//-------
